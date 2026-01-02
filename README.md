@@ -1,5 +1,5 @@
 # 🎬 MovieZone
-
+change
 MovieZone is a React-based movie browsing web application built with Vite. 
 Users can explore movies by categories and view posters, release dates, and details.
 Designed with Bootstrap for a responsive and modern UI.
