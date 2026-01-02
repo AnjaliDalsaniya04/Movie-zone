@@ -30,16 +30,6 @@ export const movies = [
     category: "Animation",
   },
   {
-    id: 519182,
-    title: "Despicable Me 4",
-    release_date: "2024-06-20",
-    backdrop_path:
-      "https://image.tmdb.org/t/p/original/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
-    poster_path:
-      "https://image.tmdb.org/t/p/original/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
-    category: "Animation",
-  },
-  {
     id: 573435,
     title: "Bad Boys: Ride or Die",
     release_date: "2024-06-05",
